@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.h1r, .container{
+    color: rgba(255, 0, 255, 0.525);
+}
+
+.formr{
+    background-color: aquamarine;
+}
+
+.inputr{
+    color:blue;
+}
+
+.inputl{
+    color:darkmagenta;
+}
+
+.checkbox{
+    background-color:rgba(210, 220, 20, 0.28);
+}
+
+img{
+    display: block;
+    margin: auto;
+    margin-top: -30px;
+}
